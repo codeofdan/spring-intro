@@ -1,4 +1,4 @@
-package com.codeofdan.annotation;
+package com.codeofdan.autowired;
 
 import org.springframework.stereotype.Component;
 
